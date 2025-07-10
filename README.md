@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/@yourchannel" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/channel/UCdCtyJ9i9rQ-CxRokmindSA" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" width="40" height="40"/>
   </a>
 </p>
